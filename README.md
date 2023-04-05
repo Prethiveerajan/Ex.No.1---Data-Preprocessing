@@ -91,7 +91,22 @@ print("Size of X_test: ",len(X_test))
 ```
 
 ## OUTPUT:
-/ Show the result/
+## Dataset and Its Properties:
+![output](o1.png)
+![output](o2.png)
+![output](o3a.png)
+![output](o3b.png)
+![output](o3c.png)
+## Normalised Dataset:
+![output](o4.png)
+## X and Y Column Data:
+![output](o5.png)
+![output](o6.png)
+## Training Data:
+![output](o7.png)
+## Test Data:
+![output](o8.png)
+
 
 ## RESULT
-/Type your result here/
+Thus, the Data preprocessing is performed over a data set successfully.
