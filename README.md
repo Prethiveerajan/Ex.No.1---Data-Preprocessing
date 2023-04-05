@@ -93,9 +93,13 @@ print("Size of X_test: ",len(X_test))
 ## OUTPUT:
 ## Dataset and Its Properties:
 ![output](o1.png)
+
 ![output](o2.png)
+
 ![output](o3a.png)
+
 ![output](o3b.png)
+
 ![output](o3c.png)
 ## Normalised Dataset:
 ![output](o4.png)
